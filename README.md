@@ -37,7 +37,7 @@ My initial design was to:
 ---
 
 ### Video Overview
-wip
+[Raspberry Pi Arduino Sound Detection](https://youtu.be/EMa9Qe6W6p0)
 
 ---
 
