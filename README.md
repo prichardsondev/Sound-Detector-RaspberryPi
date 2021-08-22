@@ -3,7 +3,7 @@
 ---
 
 <p float="left">
-  <img src="./img/smoke-detector-detector.png" /> 
+  <img src="./img/smoke-detector-detector.PNG" /> 
 </p>
 
 ---
