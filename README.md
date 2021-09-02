@@ -37,7 +37,7 @@ My initial design was to:
 ---
 
 ### Video Overview
-[Raspberry Pi Arduino Sound Detection](https://youtu.be/EMa9Qe6W6p0)
+[Raspberry Pi Arduino Sound Detection](https://youtu.be/_S649DFFxLA)
 
 ---
 
